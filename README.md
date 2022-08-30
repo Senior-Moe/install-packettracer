@@ -7,7 +7,7 @@ This for installing Packet Tracer in :
 1) Arch Linux
 2) Void Linux
 3) Fedora
-4) Any Distro that not have Packet Tracer.
+4) Any Distro that not have DPKG. 
 
 Many of the destros does not have `dpkg` and must use this script to install Packet Tracer. 
 
