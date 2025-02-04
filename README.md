@@ -19,7 +19,7 @@ Before active the Bash in this scripting. you need download the package from [NE
 1) the first step is download the repository by git:
 
 ```bash
-git clone https://github.com/Mohammed-Alnahdi/install-packettracer.git
+git clone https://github.com/Senior-Moe/install-packettracer.git
 ```
 
 3) copy the package into repo directroy.
